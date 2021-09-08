@@ -1,2 +1,0 @@
-# RRP
-Restaurant Rate Prediction
